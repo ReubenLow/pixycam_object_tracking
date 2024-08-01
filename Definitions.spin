@@ -1,0 +1,1 @@
+CON  'MOTOR PWM PINS  R1S1    = 2  R1S2    = 3  R2S1    = 26  R2S2    = 27  'SENSOR I2C PINS  ToF1SCL = 4  ToF1SDA = 5  ToF1RST = 6  ToF2SCL = 11  ToF2SDA = 12  ToF2RST = 13  Ultra1SCL = 8  Ultra1SDA = 9  Ultra2SCL = 20  Ultra2SDA = 21  'XBee  Rx    = 16  Tx    = 17  Baud  = 9600  'ADD any other Pins or CON assignmentPUB EmptySub  return
